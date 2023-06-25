@@ -4,12 +4,14 @@ Nama Penanggung jawab : Julian Witjaksono F55120117 <br>
 
 
 Anggota Kelompok :
+<p>
+  <li>Julian Witjaksono F55120117 <br></li>
+  <li>Erma Sulistiawati F55120116 <br></li>
+  <li>Faried Muchtar F55120117 <br></li>
+  <li>Resti  F55120121 <br></li>
+  <li>Amanda Crstalia Wantah F55120128 <br></li>
+</p>
 
-Julian Witjaksono F55120117 <br>
-Erma Sulistiawati F55120116 <br>
-Faried Muchtar F55120117 <br>
-Resti  F55120121 <br>
-Amanda Crstalia Wantah F55120128 <br>
 Penjelasan Kodingan : Daftar library yang digunakan dan fungsinya antara lain :
 
 TensorFlow : Berfungsi untuk membuat model, melatih dan menerapkan model neural network.<br>
