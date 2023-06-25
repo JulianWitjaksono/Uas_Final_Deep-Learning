@@ -1,6 +1,7 @@
 <html>
-FINAL-PROJECT
-Nama Penanggung jawab : Julian Witjaksono F55120117 
+FINAL-PROJECT<br>
+Nama Penanggung jawab : Julian Witjaksono F55120117 <br>
+
 
 Anggota Kelompok :
 
